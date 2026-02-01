@@ -2,7 +2,7 @@
 ### Full Stack Developer | Python & Angular | ERP Systems | API Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-TejasTathe302-black?logo=github)](https://github.com/TejasTathe302)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Tathe-blue?logo=linkedin)](https://linkedin.com/in/tejas-tathe-1115b2256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Tathe-blue?logo=linkedin)](https://www.linkedin.com/in/tejas-tathe-205a612b8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome)](https://tejastathe302.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-tejas.tathe.dev%40gmail.com-red?logo=gmail)](mailto:tejas.tathe.dev@gmail.com)
 
