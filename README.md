@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tejas Tathe  
-### Full Stack Developer | Python & Angular | ERP Systems | API Engineering
+### Software Developer | Python & Angular | ERP Systems | API Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-TejasTathe302-black?logo=github)](https://github.com/TejasTathe302)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Tathe-blue?logo=linkedin)](https://www.linkedin.com/in/tejas-tathe-dev/)
