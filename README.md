@@ -153,14 +153,6 @@ Savitribai Phule Pune University
 
 ---
 
-# GitHub Stats
-
-![Tejas GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasTathe302&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasTathe302&layout=compact)
-
----
-
 # Current Focus
 
 - Backend Architecture
