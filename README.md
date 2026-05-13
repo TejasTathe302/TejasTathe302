@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-Full Stack Developer with **2.5+ years of hands-on experience** building production-grade ERP systems, REST APIs, enterprise apps, and secure backend services.
+Software Developer with **3 years of hands-on experience** building production-grade ERP systems, REST APIs, enterprise apps, and secure backend services.
 
 I specialize in:
 - Building scalable backend systems  
