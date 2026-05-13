@@ -1,119 +1,180 @@
-# 👋 Hi, I'm Tejas Tathe  
-### Software Developer | Python & Angular | ERP Systems | API Engineering
+# Tejas Tathe
 
-[![GitHub](https://img.shields.io/badge/GitHub-TejasTathe302-black?logo=github)](https://github.com/TejasTathe302)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas%20Tathe-blue?logo=linkedin)](https://www.linkedin.com/in/tejas-tathe-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome)](https://tejastathe302.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-tejas.tathe.dev%40gmail.com-red?logo=gmail)](mailto:tejas.tathe.dev@gmail.com)
+## Python Backend Developer | FastAPI | Django | Angular | ERP Systems
 
----
-
-## 🚀 About Me
-Software Developer with **3 years of hands-on experience** building production-grade ERP systems, REST APIs, enterprise apps, and secure backend services.
-
-I specialize in:
-- Building scalable backend systems  
-- Optimizing SQL performance  
-- Integrating APIs with Angular & Ionic  
-- Delivering real-world projects used by **banking**, **municipal**, **e-commerce**, **Indian Army**, and **Indian Navy**
-
-I don’t write demo code — everything I build runs in production.
+📍 Pune, Maharashtra, India  
+📧 tejas.tathe.dev@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tejas-tathe-dev/)  
+💻 [GitHub](https://github.com/TejasTathe302)  
+🌐 [Portfolio](https://tejastathe302.github.io/portfolio/)
 
 ---
 
-## 🛠 Tech Stack
+## Professional Summary
 
-### **Frontend**
-HTML5 · CSS3 · Bootstrap · JavaScript · TypeScript · Angular · Ionic
+Backend Software Developer with around 3 years of hands-on experience building scalable, secure, and high-performance web applications using Python technologies.
 
-### **Backend**
-Python (Django, FastAPI) · PHP (CodeIgniter)
+Experienced in:
+- REST API development with FastAPI & Django
+- Database-driven systems using PostgreSQL & MySQL
+- ERP application development
+- Query optimization & backend performance tuning
+- Secure authentication & role-based access systems
+- Production deployment and automation
 
-### **Databases**
-PostgreSQL · MySQL · SQLite  
-Django ORM · SQLAlchemy · Pydantic
-
-### **Other Skills**
-REST APIs · Payment Gateway Integration · Schedulers  
-Docker · Kubernetes · GitHub/GitLab · CI/CD  
-Postman · Swagger · WebSockets · Server Deployment
+Worked on enterprise applications used in banking, municipal systems, e-commerce platforms, and Indian Navy ERP systems.
 
 ---
 
-## 🔥 Featured Work (Real Production Projects)
+# Tech Stack
 
-### 🔊 **Voice Recognition System – Indian Army**
-- Achieved **90%+ accuracy**
-- Built with Python, MFCC, DTW
-- Secure identity-matching system
+## Backend
+- Python
+- FastAPI
+- Django
+- Django REST Framework (DRF)
+- SQLAlchemy
+- Celery
+- Redis
 
-### 🏦 **Co-operative Bank ERP**
-- Automated workflows for banking staff  
-- Reduced manual data entry by **60%**
+## Frontend
+- Angular
+- Ionic
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+- React
 
-### 🐄 **Municipal Animal Monitoring App**
-- Reduced record errors by **70%**
-- App + API integration, offline sync
+## Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
 
-### 🛒 **E-commerce ERP**
-- Secure payments, inventory, order tracking  
-- FastAPI + Angular implementation
+## DevOps & Tools
+- Docker
+- Kubernetes (Basics)
+- AWS
+- Azure
+- Git
+- GitHub
+- GitLab
+- CI/CD Pipelines
+- Postman
+- Swagger / OpenAPI
+- Jira
 
-### ⚓ **Indian Navy ERP (EPPS Infotech)**
-- Used by **3000+ Navy personnel**  
-- Improved API response speed by **40%**
-- Automated scheduled tasks → **30% less manual work**
-
----
-
-## 💼 Experience
-
-### **EPPS Infotech Limited — Jr. Software Developer**  
-**Aug 2025 – Present**
-- Backend development for Indian Navy ERP
-- PostgreSQL indexing → **40% faster APIs**
-- Integrated FastAPI microservices with Angular
-- Automated system tasks → **30% work saved**
-
----
-
-### **A2Z IT HUB PVT LTD — Jr. Software Developer**  
-**May 2024 – Aug 2025**
-- Built banking automation APIs (60% time saved)
-- Voice Recognition System for Indian Army
-- E-commerce ERP backend & payment modules
-- Municipal monitoring app (70% fewer errors)
-- Refactored legacy ERP modules for stability
-- Guided interns on API + DB structuring
-
----
-
-### **A2Z IT HUB — Software Developer Intern**  
-**Aug 2023 – Apr 2024**
-- Debugged live ERP issues  
-- SQL query optimization  
-- Documentation & onboarding guides  
+## Other Skills
+- REST APIs
+- WebSockets
+- Microservices
+- Authentication & RBAC
+- API Testing
+- Exception Handling
+- Scheduler / Cron Jobs
+- Unit Testing
 
 ---
 
-## 🎓 Education
+# Professional Experience
 
-**MCA — Pune University (2023–2025)**  
-**B.Sc. Computer Science — Pune University (2020–2023)**  
-CGPA: **8.01 (MCA)** | **8.64 (B.Sc.)**
+## EPPS Infotech Limited — Python Developer
+📍 Pune, Maharashtra  
+📅 Aug 2025 – Present
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TejasTathe302&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasTathe302&layout=compact)
-
----
-
-## 📫 Contact
-- **Email:** tejas.tathe.dev@gmail.com  
-- **Location:** Ahilyanagar, Maharashtra  
-- **Portfolio:** https://tejastathe302.github.io/portfolio/
+### Indian Navy ERP System
+- Developed secure backend modules for ERP systems used by 3000+ users
+- Implemented JWT authentication and role-based access control (RBAC)
+- Built and optimized FastAPI REST APIs
+- Improved API performance by 40% using indexing and query optimization
+- Integrated FastAPI services with Angular applications
+- Automated backend operations using schedulers, background tasks, and WebSockets
+- Reduced manual operational work by 30%
+- Contributed to ML-integrated systems including fraud detection and taxi tip prediction
 
 ---
 
+## A2Z IT HUB PVT LTD — Junior Software Developer
+📍 Ahilyanagar, Maharashtra  
+📅 May 2024 – Aug 2025
+
+### Co-operative Bank Automation System
+- Developed REST APIs that reduced manual banking operations by 60%
+
+### Voice Recognition System – Indian Army
+- Built Python-based voice recognition system using MFCC and DTW
+- Achieved 90%+ matching accuracy
+
+### E-commerce ERP System
+- Integrated payment gateways and real-time order tracking
+- Implemented Kafka-based communication workflows
+
+### Municipal Animal Monitoring System
+- Reduced record errors by 70% using validation and automation systems
+
+### Additional Contributions
+- Refactored legacy ERP modules for better scalability and stability
+- Mentored interns on API development and database design
+- Developed automated backend code generation utilities for rapid API development
+
+---
+
+## A2Z IT HUB PVT LTD — Software Developer Intern
+📍 Ahilyanagar, Maharashtra  
+📅 Aug 2023 – Apr 2024
+
+- Debugged and enhanced production ERP systems
+- Optimized SQL queries and validated APIs
+- Assisted with backend documentation and onboarding guides
+
+---
+
+# Education
+
+## Master of Computer Applications (MCA)
+Savitribai Phule Pune University  
+2023 – 2025 | CGPA: 8.01
+
+## Bachelor of Science in Computer Science
+Savitribai Phule Pune University  
+2020 – 2023 | CGPA: 8.64
+
+---
+
+# Certifications
+
+- Python Basic to Advance — Udemy
+- Advanced Database and SQL Querying — Udemy
+- Introduction to Git Version Control — Simplilearn
+- Introduction to Generative AI — Upgrad
+- Claude Code in Action — Anthropic
+
+---
+
+# GitHub Stats
+
+![Tejas GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasTathe302&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasTathe302&layout=compact)
+
+---
+
+# Current Focus
+
+- Backend Architecture
+- FastAPI Microservices
+- Performance Optimization
+- Scalable ERP Systems
+- Distributed Systems
+- AI-assisted Backend Development
+
+---
+
+# Contact
+
+📧 Email: tejas.tathe.dev@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/tejas-tathe-dev/  
+💻 GitHub: https://github.com/TejasTathe302  
+🌐 Portfolio: https://tejastathe302.github.io/portfolio/
