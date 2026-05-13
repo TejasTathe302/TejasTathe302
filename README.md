@@ -78,7 +78,7 @@ Postman · Swagger · WebSockets · Server Deployment
 ---
 
 ### **A2Z IT HUB PVT LTD — Jr. Software Developer**  
-**Jun 2023 – Aug 2025**
+**May 2024 – Aug 2025**
 - Built banking automation APIs (60% time saved)
 - Voice Recognition System for Indian Army
 - E-commerce ERP backend & payment modules
@@ -89,7 +89,7 @@ Postman · Swagger · WebSockets · Server Deployment
 ---
 
 ### **A2Z IT HUB — Software Developer Intern**  
-**Feb 2023 – Jun 2023**
+**Aug 2023 – Apr 2024**
 - Debugged live ERP issues  
 - SQL query optimization  
 - Documentation & onboarding guides  
