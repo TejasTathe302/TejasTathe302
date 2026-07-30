@@ -123,7 +123,7 @@ Worked on enterprise applications used in banking, municipal systems, e-commerce
 
 ## A2Z IT HUB PVT LTD — Software Developer Intern
 📍 Ahilyanagar, Maharashtra  
-📅 Aug 2023 – Apr 2024
+📅 Nov 2023 – Apr 2024
 
 - Debugged and enhanced production ERP systems
 - Optimized SQL queries and validated APIs
